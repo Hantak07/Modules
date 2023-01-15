@@ -1,9 +1,9 @@
 # Modules
 
-Dependencies\n
-requests module
-
-Class
+Dependencies__
+requests module__
+__
+Class__
 Pixela(username, api_token)
 
 Methods
