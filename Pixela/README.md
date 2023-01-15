@@ -1,6 +1,6 @@
 # Modules
 
-Dependencies
+Dependencies\n
 requests module
 
 Class
