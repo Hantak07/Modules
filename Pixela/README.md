@@ -1,11 +1,11 @@
 # Modules
 
-Dependencies__
-requests module__
-__
-Class__
-Pixela(username, api_token)
+Dependencies
+<br />requests module
 
+<br />Class__
+<br />Pixela(username, api_token)
+<br />
 Methods
 """User Methods"""
 create_user()                     : Register a new user
